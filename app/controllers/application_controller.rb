@@ -11,3 +11,4 @@ class ApplicationController < ActionController::Base
     @layout = cookies['layout']
   end
 end
+#comment 
